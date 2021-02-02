@@ -3,6 +3,8 @@ var SHOW_CLASS = "show",
     HIDE_CLASS = "hide",
     ACTIVE_CLASS = "active";
 
+
+alert("Funciona");
 $(".tabs").on("click", "li a", function (e) {
     e.preventDefault();
     var $tab = $(this),
