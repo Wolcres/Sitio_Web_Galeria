@@ -14,7 +14,7 @@ input:focus{
   background-color:yellow;
 }
 .flat-form {
-  background: #34495e;  /*tablebg e74c3c #34495e  #88565b ed7271*/
+  background: #414443;  /*tablebg e74c3c #34495e  #88565b ed7271*/
   margin: 25px auto;
   width: 390px;
   height: 340px;
@@ -22,7 +22,7 @@ input:focus{
   font-family: 'Roboto';
 }
 .tabs {
-  background: #ed7271;  /*topbar #c0392b #88565b*/
+    /*topbar #c0392b #88565b*/
   height: 40px;
   margin: 0;
   padding: 0;
@@ -39,7 +39,7 @@ input:focus{
   padding: 0;
 }
 .tabs a {
-  background: #ed7271;  /*topbar c0392b  #88565b */
+  background: 15C690;  /*topbar c0392b  #88565b */
   display: block;
   float: left;
   text-decoration: none;
@@ -57,7 +57,7 @@ input:focus{
   text-align: center;
 }
 .tabs a.active {
-  background: #ed7271;  /*topbar e74c3c  */
+  background: #15C690;  /*topbar e74c3c  */
   border-right: none;
   -webkit-transition: all 0.5s linear;
   -moz-transition: all 0.5s linear;
@@ -94,7 +94,7 @@ form input[type=password] {
   padding-left: 15px;
   background: #fff; /* #44454a  */
   border: none;
-  color: #e74c3c;   /* e74c3c e9e9e9  */
+  color: 15C690;   /* e74c3c e9e9e9  */
   outline: none;
 }
 
@@ -124,7 +124,7 @@ form input[type=password] {
 .button {
     border: none;
     display: block;
-    background: #136899;
+    background: #15C690;
     height: 40px;
     width: 80px;
     color: #ffffff;
@@ -137,12 +137,12 @@ form input[type=password] {
 }
 
 .button:hover {
-  background: #1e75aa;
+  background: #7B807E;
   /*box-shadow: 0 3px 1px #237bb2;*/
 }
 
 .button:active {
-  background: #136899;
+  background: #7B807E;
   /*box-shadow: 0 3px 1px #0f608c;*/
 }
 
